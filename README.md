@@ -7,4 +7,4 @@ Projeto desenvolvido para a disciplina de **Programação Web I** (IF Sudeste MG
 - CSS3 (Estilização externa, seletores, classes e pseudoclasses)
 
 ## 📸 Demonstração do Projeto (Com CSS)
-![Página Pessoal Estilizada](captura-css.png)
+![Página Pessoal Estilizada](img/captura-css.png)
